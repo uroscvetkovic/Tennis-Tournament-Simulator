@@ -1,0 +1,52 @@
+{
+    "players": [
+        {
+            "rank": 1,
+            "firstName": "Novak",
+            "lastName": "Djokovic",
+            "country": "SRB"
+        },
+        {
+            "rank": 2,
+            "firstName": "Daniil",
+            "lastName": "Medvedev",
+            "country": "RUS"
+        },
+        {
+            "rank": 3,
+            "firstName": "Rafael",
+            "lastName": "Nadal",
+            "country": "ESP"
+        },
+        {
+            "rank": 4,
+            "firstName": "Stefanos",
+            "lastName": "Tsitsipas",
+            "country": "GRE"
+        },
+        {
+            "rank": 5,
+            "firstName": "Alexander",
+            "lastName": "Zverev",
+            "country": "GER"
+        },
+        {
+            "rank": 6,
+            "firstName": "Dominic",
+            "lastName": "Thiem",
+            "country": "AUT"
+        },
+        {
+            "rank": 7,
+            "firstName": "Andrey",
+            "lastName": "Rublev",
+            "country": "RUS"
+        },
+        {
+            "rank": 8,
+            "firstName": "Matteo",
+            "lastName": "Berrettini",
+            "country": "ITA"
+        }
+    ]
+}
