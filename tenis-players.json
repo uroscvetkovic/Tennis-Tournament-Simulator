@@ -47,6 +47,54 @@
             "firstName": "Matteo",
             "lastName": "Berrettini",
             "country": "ITA"
+        },
+        {
+            "rank": 9,
+            "firstName": "Rodger",
+            "lastName": "Federer",
+            "country": "SUI"
+        },
+        {
+            "rank": 10,
+            "firstName": "Denis",
+            "lastName": "Shapovalov",
+            "country": "CAN"
+        },
+        {
+            "rank": 11,
+            "firstName": "Pablo",
+            "lastName": "Carrena",
+            "country": "ESP"
+        },
+        {
+            "rank": 12,
+            "firstName": "Hubert",
+            "lastName": "Hurkacz",
+            "country": "POL"
+        },
+        {
+            "rank": 13,
+            "firstName": "Diego",
+            "lastName": "Schwartzman",
+            "country": "ARG"
+        },
+        {
+            "rank": 15,
+            "firstName": "Felix",
+            "lastName": "Auger-Aliassime",
+            "country": "CAN"
+        },
+        {
+            "rank": 14,
+            "firstName": "Casper",
+            "lastName": "Ruud",
+            "country": "NOR"
+        },
+        {
+            "rank": 16,
+            "firstName": "Roberto",
+            "lastName": "Agut",
+            "country": "ESP"
         }
     ]
 }
